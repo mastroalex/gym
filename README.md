@@ -12,6 +12,8 @@ It will export `Data.pdf` and several figures with:
 * quadratic growth model
 * plot in series vs days space
 
+![example](https://github.com/mastroalex/gym/blob/main/fig/Squat_figure7.png.webp)
+
 The function accept data as `.csv` file with the following data structure:
 
 |Data|	SxR	|Serie 1|	…	|Serie n|
